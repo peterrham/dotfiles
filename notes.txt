@@ -1,0 +1,4 @@
+export GOROOT=/home/peterham/go
+export GOPATH=/home/peterham/gopath
+export PATH=/home/peterham/go/bin:$PATH
+go run cbt.go read testtable
