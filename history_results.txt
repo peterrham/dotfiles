@@ -1,0 +1,1000 @@
+  451  ls
+  452  more bigtable_test.go
+  453  ls
+  454  cd ..
+  455  ls
+  456  cd bigtable
+  457  ls
+  458  cd cmd
+  459  ls
+  460  cd ..
+  461  ls
+  462  more gc.go
+  463  ls
+  464  more admin.go
+  465  ls
+  466  more admin_test.go
+  467  ls
+  468  go
+  469  ls
+  470  go run admin_test
+  471  go run admin_test.go
+  472  go run admin
+  473  go run admin.go
+  474  ls
+  475  grep main *
+  476  ls
+  477  go test admin
+  478  go test admin.go
+  479  ls
+  480  cd cmd
+  481  ls
+  482  cd cbt
+  483  ls
+  484  go run cbt
+  485  go run cbt.go
+  486  go run cbt.go -zone us-westc -project myproject -cluster testcluser
+  487  go run cbt.go -zone=us-westc -project=myproject -cluster=testcluser
+  488  go run cbt.go -zone=us-westc -project=myproject -cluster=testcluser ls
+  489  cd
+  490  ls
+  491  cd projects
+  492  ls
+  493  git clone https://git.lekensteyn.nl/ltunify.git
+  494  cd ltunify
+  495  make install-home
+  496  ls
+  497  which ltunify
+  498  /usr/peterham/bin/ltunify
+  499  /home/peterham/bin/ltunify
+  500  /home/peterham/bin/ltunify list
+  501  sudo /home/peterham/bin/ltunify list
+  502  sudo /home/peterham/bin/ltunify pair
+  503  sudo /home/peterham/bin/ltunify unpair 1
+  504  sudo /home/peterham/bin/ltunify unpair 2
+  505  sudo /home/peterham/bin/ltunify unpair 3
+  506  sudo /home/peterham/bin/ltunify unpair 4
+  507  sudo /home/peterham/bin/ltunify list
+  508  sudo /home/peterham/bin/ltunify pair
+  509  sudo /home/peterham/bin/ltunify list
+  510  sudo /home/peterham/bin/ltunify receiver-info
+  511  sudo /home/peterham/bin/ltunify pair
+  512  sudo /home/peterham/bin/ltunify list
+  513  cxlkear
+  514  aclear
+  515  clear
+  516  pwd
+  517  ls
+  518  cd
+  519  ls
+  520  cdgopath
+  521  ls
+  522  cd gopath
+  523  ls
+  524  cd src
+  525  ls
+  526  cd g*
+  527  ls
+  528  pwd
+  529  ls
+  530  cd..]
+  531  cd..
+  532  ls
+  533  cd ..
+  534  ls
+  535  cd goog*
+  536  ls
+  537  cd cloud
+  538  ls
+  539  cd bigtable
+  540  ls
+  541  cd cmd
+  542  ls
+  543  cd cbt
+  544  ls
+  545  history
+  546  go run cbt.go -zone=us-westc -project=myproject -cluster=testcluser ls
+  547  go run cbt.go -zone=us-westc -project=myproject -cluster=testcluser help
+  548  go run cbt.go -zone=us-westc -project=myproject -cluster=testcluser ls
+  549  go run cbt.go ls
+  550  go run cbt.go createtable
+  551  go run cbt.go createtable testtable
+  552  go run cbt.go ls
+  553  go run cbt.go createfamily testtable cf
+  554  go run cbt.go ls
+  555  go run cbt.go set testtable cf row1 
+  556  go run cbt.go help
+  557  go run cbt.go help set
+  558  go run cbt.go set testtable cf row1 cf:foobar=hithere
+  559  go run cbt.go set testtable row1 cf:foobar=hithere
+  560  go run cbt.go ls
+  561  go run cbt.go read testtable
+  562  ls
+  563  emacs cbt.go
+  564  bg
+  565  ls
+  566  history
+  567  go run cbt.go read testtable
+  568  go run cbt.go help
+  569  go run cbt.go listclusters
+  570  go run cbt.go ls
+  571  go run cbt.go read testtable
+  572  exit
+  573  ls
+  574  pwd
+  575  ls
+  576  pwd
+  577  ls
+  578  d projects
+  579  ls
+  580  pwd
+  581  cd projects
+  582  ls
+  583  mkdir bigtable_2
+  584  ls
+  585  cd bigtable_2
+  586  ls
+  587  pwd
+  588  cd ..
+  589  ls
+  590  mkdir bigtable_go
+  591  cd bigtable_go
+  592  ls
+  593  pwd
+  594  sudo apt-get install golang
+  595  go
+  596  go get google.golang.org/cloud/bigtable
+  597  sudo go get google.golang.org/cloud/bigtable
+  598  go help gopath
+  599  pwd
+  600  mkdir ../gopath
+  601  export GOPATH=/home/peterham/projects/gopath
+  602  sudo go get google.golang.org/cloud/bigtable
+  603  go get google.golang.org/cloud/bigtable
+  604  ls ..
+  605  ls
+  606  ls ../gopath
+  607  ls ../gopath/src
+  608  find ../gopath
+  609  peterham
+  610  hisoryt
+  611  history
+  612  ls
+  613  go run hello.go
+  614  history
+  615  go get google.golang.org/cloud/bigtable
+  616  go get -d google.golang.org/cloud/bigtable
+  617  go get google.golang.org/cloud/bigtable
+  618  go get google.golang.org/cloud/bigtable/
+  619  ls /home/peterham/projects/gopath/src/google.golang.org/cloud/bigtable
+  620  pwd
+  621  cd /home/peterham/projects/gopath/src/
+  622  ls
+  623  cd *
+  624  ls
+  625  cd *
+  626  ls
+  627  pwd
+  628  ls
+  629  pwd
+  630  ls
+  631  cd ..
+  632  ls
+  633  cd ..
+  634  ls
+  635  pwd
+  636  cd ..
+  637  ls
+  638  pwd
+  639  history
+  640  go get google.golang.org/cloud/bigtable
+  641  pwd
+  642  ls
+  643  cd ..
+  644  ls
+  645  pwd
+  646  ls gopath
+  647  rm -rf gopath
+  648  ls=
+  649  histo
+  650  history
+  651  go get google.golang.org/cloud/bigtable/
+  652  ls /home/peterham/projects/gopath/src/google.golang.org/cloud/bigtable
+  653  p
+  654  pwd
+  655  ls
+  656  ls gopath
+  657  ls gopath/src
+  658  ls
+  659  pwd
+  660  cd ..
+  661  ls
+  662  echo $GOPATH
+  663  ls
+  664  mkdir ~/gopath
+  665  rm -rf ~/projects/gopath
+  666  export GOPATH=/home/peterham/gopath
+  667  ls
+  668  pwd
+  669  ls
+  670  dirs
+  671  Desktop  Documents  Downloads  examples.desktop  gopath  Music  Pictures  projects  Public  Templates  Videos
+  672  ls
+  673  history
+  674  go get google.golang.org/cloud/bigtable/
+  675  pwd
+  676  ls
+  677  go run hello.go
+  678  pwd
+  679  ls
+  680  cd gopath
+  681  ls
+  682  cd src
+  683  ls
+  684  mkdir test
+  685  cd test
+  686  ls
+  687  go run *.go
+  688  ls /home/peterham/gopath/src/google.golang.org/cloud/bigtable
+  689  cd
+  690  ls
+  691  rm -rf gopath
+  692  ls
+  693  mkdir gopath
+  694  cd gopath
+  695  history
+  696  !
+  697  pwd
+  698  ls
+  699  history | grep get
+  700  go get google.golang.org/cloud/bigtable
+  701  ls ~/gopath
+  702  find ~/gopath
+  703  history
+  704  rm -rf gopath
+  705  ls
+  706  pwd
+  707  ls
+  708  clear
+  709  pwd
+  710  ls
+  711  cd projects
+  712  ls
+  713  cd go
+  714  ls
+  715  sudo apt-get install go
+  716  sudo apt-get install golang
+  717  sudo apt-get remove golang-go
+  718  go
+  719  ls
+  720  cd go
+  721  ls
+  722  cd bin
+  723  ls
+  724  ./go
+  725  pwd
+  726  ls
+  727  ./go
+  728  ls -a
+  729  cd go
+  730  go
+  731  ./go
+  732  ls -lt go
+  733  ./go
+  734  ./godoc
+  735  rehash
+  736  hash
+  737  ./go
+  738  ls
+  739  ls -lta go
+  740  ./gofmt
+  741  ./go
+  742  ls
+  743  ls ./go
+  744  ./go
+  745  more go
+  746  ./go
+  747  ls
+  748  ./godoc
+  749  ./gofmt
+  750  ls
+  751  go
+  752  pwd
+  753  ./go
+  754  cd ..
+  755  ls
+  756  bin/go
+  757  ./bin/go
+  758  which ls
+  759  ls -l /bin/ls
+  760  exit
+  761  history
+  762  pwd
+  763  ls
+  764  cd gopath
+  765  ls
+  766  cdsrc
+  767  cd src
+  768  ls
+  769  cd goo*
+  770  ls
+  771  cd cloud
+  772  ls
+  773  cd bigtable
+  774  ls
+  775  cd 
+  776  clear
+  777  ls
+  778  pwd
+  779  ls
+  780  exit
+  781  pwd
+  782  ls
+  783  pwd
+  784  cd gopath
+  785  ls
+  786  git-config -list
+  787  ls
+  788  git
+  789  git config
+  790  git config --list
+  791  ls
+  792  cd src
+  793  ls
+  794  cd goo*
+  795  ls
+  796  cd cloud
+  797  ls
+  798  cd bigtable
+  799  ls
+  800  cd cmd
+  801  ls
+  802  cd cbt
+  803  ls
+  804  cd ..
+  805  ls
+  806  cd loadtest
+  807  ls
+  808  go load 
+  809  ls
+  810  go run stats
+  811  ess 
+  812  c
+  813  ls
+  814  ls ~/
+  815  ls ~/bin
+  816  ls
+  817  which go
+  818  ls
+  819  ls ~/
+  820  ls
+  821  ls bin
+  822  pwd
+  823  cd
+  824  ls
+  825  ls bin
+  826  cd go
+  827  cd gopath
+  828  ls
+  829  dfin .
+  830  find .
+  831  ls
+  832  sc=''''
+  833  cd
+  834  ls
+  835  s
+  836  ls
+  837  exit
+  838  pwd
+  839  ls
+  840  cd projects
+  841  ls
+  842  cd go
+  843  ls
+  844  cd go
+  845  ls
+  846  cd bin
+  847  ls
+  848  ./go
+  849  pwd
+  850  export xit
+  851  echo $PATH
+  852  pwd
+  853  export PATH=`pwd`:$PATH
+  854  hash
+  855  which go
+  856  rehash
+  857  which go
+  858  cd
+  859  ls
+  860  cd gopath
+  861  ls
+  862  cd src
+  863  ls
+  864  cd goo*
+  865  ls
+  866  cd clou
+  867  cd clo*
+  868  ls
+  869  cd bigtable
+  870  ls
+  871  cd cmd
+  872  ls
+  873  cd loadtest
+  874  ls
+  875  go loadtest
+  876  go run loadtest
+  877  export GOROOT 
+  878  export GOROOT=/home/peterham/gopath
+  879  ls
+  880  go run loadtest
+  881  go run loadtest.go
+  882  echo $GOROOT
+  883  go run loadtest.go | more
+  884  go run loadtest.go >& results
+  885  ls
+  886  more results
+  887  export GOROOT=/home/peterham/gopath/
+  888  go run loadtest.go >& results
+  889  ls
+  890  go
+  891  go run
+  892  ls
+  893  go run loadtest
+  894  go run loadtest.go
+  895  echo $GOPATH
+  896  echo $GOROOT
+  897  go run loadtest.go >& results
+  898  more results
+  899  echo $PATH
+  900  ls
+  901  ec
+  902  wd
+  903  ls
+  904  echo $GOROOT
+  905  echo $PATH
+  906  pwd
+  907  ls
+  908  cd
+  909  ls
+  910  cd projects
+  911  ls
+  912  cd go
+  913  ls
+  914  ls go
+  915  pwd
+  916  cd go
+  917  ls
+  918  pwd
+  919  export GOROOT=`pwd`
+  920  ls
+  921  export GOPATH=/home/peterham/gopath
+  922  ls
+  923  cd
+  924  ls
+  925  cd gopath
+  926  ls
+  927  cd sr
+  928  cd src
+  929  ls
+  930  cd goo*
+  931  ls
+  932  cd cloud
+  933  ls
+  934  cd 
+  935  pwd
+  936  ers
+  937  ls
+  938  echo $GOPATH
+  939  echo $GOROOT
+  940  exit
+  941  l
+  942  clear
+  943  ls
+  944  cd projects
+  945  ls
+  946  cd bigtable_go
+  947  ls
+  948  pwd
+  949  ls
+  950  cd ..
+  951  ls
+  952  cd /
+  953  cd ~
+  954  ls
+  955  cd gopath
+  956  ls
+  957  cd src
+  958  ls
+  959  cd google.golang.org
+  960  ls
+  961  cd cloud
+  962  ls
+  963  cd bigtable
+  964  ls
+  965  cd bttest
+  966  ls
+  967  cd ..
+  968  ls
+  969  cmd
+  970  ls
+  971  pwd
+  972  cd cmd
+  973  ls
+  974  ls -lt
+  975  cd cbt
+  976  ls
+  977  ls -lt
+  978  golang cbt
+  979  go cbt
+  980  which golang
+  981  which go
+  982  ls
+  983  cd gopath
+  984  ls
+  985  find . | grep bin
+  986  find . 
+  987  ls
+  988  ls ~
+  989  ls ~/bin
+  990  ls
+  991  which co
+  992  ls /usr/local/go
+  993  echo $GOROOT
+  994  ls /
+  995  ls /usr
+  996  ls /usr/local
+  997  cd
+  998  ls
+  999  cd projects
+ 1000  ls
+ 1001  cd projects
+ 1002  ls
+ 1003  cd go
+ 1004  ls
+ 1005  cd go
+ 1006  ls
+ 1007  cd projects
+ 1008  ls
+ 1009  cd go
+ 1010  ls
+ 1011  cd go
+ 1012  ls
+ 1013  cd bin
+ 1014  ls
+ 1015  ./go
+ 1016  pwd
+ 1017  source ~/.profile
+ 1018  which go
+ 1019  source ~/.profile
+ 1020  which go
+ 1021  go
+ 1022  go run
+ 1023  source ~/.profile
+ 1024  which go
+ 1025  go run
+ 1026  echo $GOROOT
+ 1027  cd $GOROOT
+ 1028  ls
+ 1029  PATH
+ 1030  echo $PATH
+ 1031  which go
+ 1032  go run
+ 1033  pwd
+ 1034  ls
+ 1035  pwd
+ 1036  cd 
+ 1037  ls
+ 1038  cd gopath
+ 1039  ls
+ 1040  cd src
+ 1041  ls
+ 1042  cd *google*
+ 1043  ls
+ 1044  cd gopath
+ 1045  ls
+ 1046  cd src
+ 1047  ls
+ 1048  cg *goo*
+ 1049  ls
+ 1050  cd *goo*
+ 1051  ls
+ 1052  cd cloud
+ 1053  ls
+ 1054  cd bigtable
+ 1055  ls
+ 1056  cd cmd
+ 1057  ls
+ 1058  cd cbt
+ 1059  ls
+ 1060  go run cbt.go
+ 1061  which go
+ 1062  source ~/.profile
+ 1063  go run cbt.go
+ 1064  head `which go`
+ 1065  ls
+ 1066  echo $GOROOT
+ 1067  go run cbt.go
+ 1068  which go
+ 1069  go run -v cbt.go
+ 1070  go -v
+ 1071  go env
+ 1072  echo $GOROOT
+ 1073  go env
+ 1074  source ~/.profile
+ 1075  which go
+ 1076  go env
+ 1077  source ~/.profile
+ 1078  ls
+ 1079  which go
+ 1080  go env
+ 1081  ls
+ 1082  source ~/.profile
+ 1083  go env
+ 1084  ls
+ 1085  go
+ 1086  source ~/.profile
+ 1087  ls
+ 1088  go run hello
+ 1089  go run hello.go
+ 1090  more hello.go
+ 1091  go run hello.go
+ 1092  history
+ 1093  exit
+ 1094  ls
+ 1095  ls -a
+ 1096  .
+ 1097  ls
+ 1098  cd Downloads
+ 1099  ls
+ 1100  more first_key.ppk
+ 1101  ls
+ 1102  ssh
+ 1103  ls
+ 1104  ls -lt 
+ 1105  chmod a-rw *.ppk
+ 1106  ls -lt 
+ 1107  chmod +wr *.ppk
+ 1108  ls
+ 1109  ls -l
+ 1110  history
+ 1111  chmod a-rw *.ppk
+ 1112  chmod o+rw *.ppk
+ 1113  ls -l
+ 1114  exit
+ 1115  ls
+ 1116  cd Downloads
+ 1117  ls
+ 1118  ls -a
+ 1119  ls -l
+ 1120  rm * -i
+ 1121  ls
+ 1122  ls -l
+ 1123  chmod o+wr *.ppk
+ 1124  ls
+ 1125  ls -lt
+ 1126  chmod
+ 1127  chmod --help
+ 1128  ls
+ 1129  chmod u+rw *.ppk
+ 1130  ls
+ 1131  ls -lt
+ 1132  ls
+ 1133  chmod o-rw *.ppk
+ 1134  ls
+ 1135  ls -lt
+ 1136  chmod oug-rw *.pem
+ 1137  ls
+ 1138  ls -lt
+ 1139  chmod +rw *.pem
+ 1140  ls
+ 1141  ls -lt
+ 1142  chmod -rw *.e server
+ 1143  debug1: SSH2_MSG_SERVICE_REQUEST sent
+ 1144  debug1: SSH2_MSG_SERVICE_ACCEPT received
+ 1145  debug1: Authentications that can continue: publickey
+ 1146  debug1: Next authentication method: publickey
+ 1147  debug1: Trying private key: /home/peterham/Downloads/first_key.ppk
+ 1148  debug1: could not open key file '/home/peterham/Downloads/first_key.ppk': Permission denied
+ 1149  debug1: No more authentication methods to try.
+ 1150  Permission denied (publickey).
+ 1151  peterham@mbaubuntuhard:~/gopath/src/google.golang.org/cloud/bigtable/cmd/cbt$ 
+ 1152  history
+ 1153  ls
+ 1154  chmod -rw *.pem
+ 1155  ls
+ 1156  ls -lt
+ 1157  chmod u+wr *.pem
+ 1158  ls
+ 1159  exit
+ 1160  # ssh -v -l peterham -i ~/Downloads/first_key.pem 130.211.183.25
+ 1161  ls
+ 1162  pwd
+ 1163  ssh -v -l peterham -i ~/Downloads/first_key.pem 130.211.183.25
+ 1164  exit
+ 1165  ls
+ 1166  alias a="source ./a.sh"
+ 1167  a
+ 1168  ls
+ 1169  debug1: Exit status 0s
+ 1170  l
+ 1171  ls
+ 1172  ls -a
+ 1173  ls -a ~/
+ 1174  a
+ 1175  ls
+ 1176  pwd
+ 1177  ls ~
+ 1178  pwd
+ 1179  a
+ 1180  u
+ 1181  ls
+ 1182  pwd
+ 1183  go version
+ 1184  gopeterham@mbaubuntuhard:~/gopath/src/google.golang.org/cloud/bigtable/cmd/cbt$ 
+ 1185  ls
+ 1186  go
+ 1187  source ~/.profile
+ 1188  go
+ 1189  go version
+ 1190  go env
+ 1191  history
+ 1192  history | grep run
+ 1193  history
+ 1194  a
+ 1195  which go
+ 1196  source ~/.profile
+ 1197  ls
+ 1198  go run cbt.go
+ 1199  go run cbt.go count
+ 1200  go run cbt.go ls
+ 1201  go run cbt.go listclusters
+ 1202  ls
+ 1203  history
+ 1204  go run cbt.go listclusters
+ 1205  history
+ 1206  go run cbt.go ls
+ 1207  go run cbt.go
+ 1208  go run cbt.go createtable testtable
+ 1209  ls
+ 1210  history
+ 1211  go run cbt.go ls
+ 1212  go run cbt.go
+ 1213  history
+ 1214  go run cbt.go createtable testtable
+ 1215  go run cbt.go set
+ 1216  go run cbt.go set testable foobar testfamily:testcol=stuff
+ 1217  go run cbt.go set testtable foobar testfamily:testcol=stuff
+ 1218  history
+ 1219  go run cbt.go
+ 1220  history
+ 1221  go run cbt.go createfamily
+ 1222  go run cbt.go createfamily testfamily
+ 1223  go run cbt.go createfamily testtable testfamily
+ 1224  history
+ 1225  go run cbt.go set testtable foobar testfamily:testcol=stuff
+ 1226  go run cbt.go
+ 1227  history
+ 1228  go run cbt.go read testtable
+ 1229  history
+ 1230  go run cbt.go read testtable foobar
+ 1231  go run cbt.go read 
+ 1232  history
+ 1233  go run cbt.go read testtable
+ 1234  go run cbt.go read testtable foobar:testfamily
+ 1235  history
+ 1236  go run cbt.go
+ 1237  history
+ 1238  go run cbt.go help
+ 1239  go run cbt.go help read
+ 1240  history
+ 1241  go run cbt.go read testtable start=foobar
+ 1242  go run cbt.go read testtable start=foobar end=foobar
+ 1243  history
+ 1244  go run cbt.go help read
+ 1245  history
+ 1246  go run cbt.go read testtable start=foobar limit=foobar
+ 1247  go run cbt.go read testtable start=foobar limit=foobara
+ 1248  alias a="source ./a.sh"
+ 1249  a
+ 1250  history
+ 1251  a
+ 1252  ls
+ 1253  ks
+ 1254  ls
+ 1255  a
+ 1256  ls
+ 1257  a
+ 1258  bad permissions: ignore key: /home/peterham/Downloads/first_key.ppk
+ 1259  sl
+ 1260  a
+ 1261  ping www.google.com
+ 1262  clear
+ 1263  ls
+ 1264  l
+ 1265  sdflkj
+ 1266  fdflasdfj
+ 1267  ls
+ 1268  dsadfa
+ 1269  fdsfaffdsffasdfasdfasfasdf
+ 1270  clar
+ 1271  clear
+ 1272  als
+ 1273  ls
+ 1274  clear
+ 1275  clar
+ 1276  clear
+ 1277  ls
+ 1278  clear
+ 1279  exit
+ 1280  ping www.google.com
+ 1281  ping localhost
+ 1282  ping www.google.com
+ 1283  ifconfig
+ 1284  ping www.google.com
+ 1285  mysql
+ 1286  sudo apt-get install mysql-server
+ 1287  ping www.google.com
+ 1288  sudo netstat -tap | grep mysql
+ 1289  which mysql
+ 1290  mysql
+ 1291  mysql --version
+ 1292  mysql --hep
+ 1293  mysql --help
+ 1294  mysql --help | more
+ 1295  mysql -u root
+ 1296  mysql -u root -p peterham
+ 1297  mysql --help | more
+ 1298  mysql -u root -p=peterham
+ 1299  mysql -u mysql -p=peterham
+ 1300  sudo mysql -u mysql -p=peterham
+ 1301  sudo mysql -u root -p=peterham
+ 1302  sudo mysql -u=root -p=peterham
+ 1303  sudo mysql -u root --password=peterham
+ 1304  sudo netstat -tap | grep mysql
+ 1305  ls
+ 1306  ssh -i "/home/peterham/Downloads/first_key.pem" ubuntu@52.4.24.20
+ 1307  ping 52.4.24.20
+ 1308  ssh -i "/home/peterham/Downloads/first_key.pem" ubuntu@52.4.24.20
+ 1309  ssh 52.4.24.20
+ 1310  ping 52.4.24.20
+ 1311  ssh 52.4.24.20
+ 1312  ping 52.3.20.202
+ 1313  ssh 52.3.20.202
+ 1314  ping 52.3.20.202
+ 1315  ssh 52.3.20.202
+ 1316  ping 52.3.20.202
+ 1317  ping 52.4.60.159
+ 1318  ssh 52.4.60.159
+ 1319  ping 52.4.60.159
+ 1320  ssh 52.4.60.159
+ 1321  ping 52.4.60.159
+ 1322  ssh 52.4.60.159
+ 1323  ping 52.4.60.159
+ 1324  ping www.google.com
+ 1325  ping www.yahoo.com
+ 1326  ping 52.4.60.159
+ 1327  ssh 52.4.60.159
+ 1328  ping 52.4.60.159
+ 1329  ssh 52.4.60.159
+ 1330  ping ec2-54-90-43-150.compute-1.amazonaws.com
+ 1331  ssh ec2-54-90-43-150.compute-1.amazonaws.com
+ 1332  ssh -i "/home/peterham/Downloads/first_key.pem" ubuntu@ec2-54-90-43-150.compute-1.amazonaws.com
+ 1333  pwd
+ 1334  ssh -i "/home/peterham/Downloads/first_key.pem" ubuntu@ec2-54-90-43-150.compute-1.amazonaws.com
+ 1335  exit
+ 1336  ls
+ 1337  cd
+ 1338  ls
+ 1339  cd Downloads
+ 1340  ls
+ 1341  ssh-keygen -i -f ./first_key.ppk > ~/first_key_open_openssh.pub
+ 1342  ls
+ 1343  mv ~/first_key_open_openssh.pub .
+ 1344  history
+ 1345  source a.sh
+ 1346  pwd
+ 1347  ls
+ 1348  ssh -i "/home/peterham/Downloads/first_key.pem" ubuntu@54.153.20.190
+ 1349  ping 54.153.20.190
+ 1350  ping testinstance.chjyl8qgo4vp.us-west-1.rds.amazonaws.com
+ 1351  ssh -i "/home/peterham/Downloads/first_key.pem" ubuntu@ec2-52-8-156-40.us-west-1.compute.amazonaws.com
+ 1352  exit
+ 1353  ls
+ 1354  cd /var/lib/docker/graph
+ 1355  ls
+ 1356  cd5*
+ 1357  ls
+ 1358  cd 5*
+ 1359  ls
+ 1360  pwd
+ 1361  more json
+ 1362  ls
+ 1363  ls 
+ 1364  cd layersize
+ 1365  more layersize
+ 1366  ls
+ 1367  cd ..
+ 1368  ls
+ 1369  pwd
+ 1370  cd ..
+ 1371  ls
+ 1372  cd aufs
+ 1373  ls
+ 1374  find .
+ 1375  du .
+ 1376  sudo docker run scratch
+ 1377  sudo docker run scratch sh
+ 1378  sudo docker run scratch bash
+ 1379  sudo docker exec -it scratch bash
+ 1380  sudo docker run  -it scratch bash
+ 1381  sudo docker run  -it scratch sh
+ 1382  sudo docker run  -it scratch ls
+ 1383  sudo docker run  -it scratch /bin/bash
+ 1384  sudo docker run  -it scratch /bin/ls
+ 1385  cd
+ 1386  ls
+ 1387  git init --bare ~/dotfiles.git
+ 1388  ls
+ 1389  ls dotfiles.git
+ 1390  cd dotfiles.git 
+ 1391  ls -lt
+ 1392  cat config
+ 1393  ls -a
+ 1394  alias .G="git --work-tree=$HOME/ --git-dir=$HOME/dotfiles.git"
+ 1395  ls
+ 1396  cd
+ 1397  ls -a
+ 1398  cat .config
+ 1399  cd .config
+ 1400  ls
+ 1401  cd ..
+ 1402  lpwd
+ 1403  pwd
+ 1404  ls -a
+ 1405  .G add notes.txt
+ 1406  .G status
+ 1407  .G add .gitignore
+ 1408  .G add -f .gitignore
+ 1409  .G status
+ 1410  .G status -s
+ 1411  .G status -s -uno
+ 1412  .G commit -a -m 'Git: adding user config'
+ 1413  git clone --bare git://github.com/peterrham/dotfiles.git ~/dotfiles.git
+ 1414  .G push
+ 1415  .G remote add dotfiles git://github.com/peterrham
+ 1416  .G push dotfiles
+ 1417  .G remote add dotfiles https://github.com/peterrham.git
+ 1418  history
+ 1419  git clone --bare git://github.com/peterrham/dotfiles.git ~/dotfiles.git
+ 1420* .G remote add dtofiles h
+ 1421  .G remote add origin https://github.com/peterrham/dotfiles.git
+ 1422  .G push
+ 1423  .G push | more
+ 1424* 
+ 1425  .G remote add dotfiles https://github.com/peterrham/dotfiles
+ 1426  .G push dotfiles
+ 1427  history
+ 1428  .G remote add origin https://github.com/peterrham/dotfiles
+ 1429  .G push origin
+ 1430  .G remote add origin https://github.com/peterrham/dotfiles.git
+ 1431  .G push origin
+ 1432  git clone --bare https://github.com/peterrham/dotfiles.git ~/dotfiles.git
+ 1433  git remote add origin https://github.com/peterrham/dotfiles.git
+ 1434  .G remote add origin https://github.com/peterrham/dotfiles.git
+ 1435  .G remote add remote_origin https://github.com/peterrham/dotfiles.git
+ 1436  .G push remote_origin
+ 1437  .G push remote_origin master
+ 1438  ls
+ 1439  ls -a
+ 1440  .G add .bashrc
+ 1441  .G add -f .bashrc
+ 1442  .G commit -m ".bashrc"
+ 1443  .G push
+ 1444  history
+ 1445  ls pa
+ 1446  ls -a
+ 1447  more .bash_history
+ 1448  tail .bash_history
+ 1449  ls
+ 1450  history > history_results.txt
